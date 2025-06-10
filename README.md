@@ -43,7 +43,6 @@ https://revispy-frontend-assessment.vercel.app/
 |------------|----------------------|
 | Frontend   | React + TypeScript   |
 | Styling    | Tailwind CSS         |
-| Backend    | tRPC  |
 | Database   | Local Storage   |
 | Utilities  | Faker.js, React Router, Vite |
 
